@@ -278,25 +278,32 @@ polygon = PoolVector2Array( -129.699, 9.94633, -47, -10.5, 8, -7, 10, -1.5, -46.
 [node name="Enemies" type="Node" parent="."]
 
 [node name="Enemy" parent="Enemies" instance=ExtResource( 2 )]
-position = Vector2( 283, 628 )
+position = Vector2( 420, 564 )
+script = null
 
 [node name="Enemy2" parent="Enemies" instance=ExtResource( 2 )]
 position = Vector2( 346.109, 48.5631 )
+script = null
 
 [node name="Enemy3" parent="Enemies" instance=ExtResource( 2 )]
 position = Vector2( 592, 82 )
+script = null
 
 [node name="Enemy4" parent="Enemies" instance=ExtResource( 2 )]
 position = Vector2( 828.515, 77.262 )
+script = null
 
 [node name="Enemy5" parent="Enemies" instance=ExtResource( 2 )]
 position = Vector2( 452, 629 )
+script = null
 
 [node name="Enemy6" parent="Enemies" instance=ExtResource( 2 )]
 position = Vector2( -62, 403 )
+script = null
 
 [node name="Enemy7" parent="Enemies" instance=ExtResource( 2 )]
 position = Vector2( 24, 18 )
+script = null
 
 [node name="ParallaxBackground" parent="." instance=ExtResource( 7 )]
 
